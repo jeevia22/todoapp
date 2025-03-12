@@ -109,6 +109,22 @@ li {
     background: #d6891c;
 }
 
+.task-text {
+    flex: 1;
+    font-size: 16px;
+}
+
+.edit-input {
+    font-size: 16px;
+    padding: 5px;
+    border: 2px solid #6a11cb;
+    border-radius: 4px;
+    width: 100%;
+}
+
+
+
+
 @media (max-width: 400px) {
     .container {
         width: 90%;
